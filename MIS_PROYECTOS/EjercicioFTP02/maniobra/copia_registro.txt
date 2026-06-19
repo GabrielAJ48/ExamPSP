@@ -1,0 +1,2 @@
+Inicio del Registro FTP
+Segunda linea añadida desde Java
